@@ -6,11 +6,21 @@
     padding: 0;
 }
 
-
+.button {
+    background-color: #0e9cbc;
+    margin-left: 15px;
+    font-size: 15px;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: bold;
+    color: white;
+    padding: 10px;
+    border-radius: 10px;
+    margin-bottom: 5px;
+}
 
 .principal {
     
-    background-color:#4B2F28;
+    background-color:#000000;
     opacity: 0.92;
     background-repeat: no-repeat;
     background-size: cover;
@@ -51,9 +61,7 @@
  
 
 }
- div{
-    display: inline-block;
- }
+
 
 .lista{
   padding-left: 10px;
@@ -63,7 +71,7 @@
 .apto{
     text-decoration: none;
     color: white;
-    padding-bottom: 10px;
-    font-size: 20px;
+    border-bottom: 10px;
+    font-size: 25px;
 
 }
