@@ -1,0 +1,70 @@
+@import url('https://fonts.googleapis.com/css2?family=Imperial+Script&family=Krona+One&family=Montserrat:ital,wght@0,300;0,400;1,400&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Imperial+Script&family=Jomhuria&family=Krona+One&family=Montserrat:ital,wght@0,300;0,400;1,400&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Imperial+Script&family=Jomhuria&family=Krona+One&family=Montserrat:ital,wght@0,300;0,400;1,400&family=Open+Sans:ital,wght@1,300&display=swap');
+* {
+    margin: 0;
+    padding: 0;
+}
+
+
+
+.principal {
+    
+    background-color:#4B2F28;
+    opacity: 0.92;
+    background-repeat: no-repeat;
+    background-size: cover;
+   
+    /*
+      
+        background: url("D:/scripts/interfone/imagens/background.jpg");
+    b;
+    */
+}
+
+
+.titulo {
+    font-family: 'Imperial Script', cursive;
+    text-align: center;
+    color: white;
+    font-size: 60px;
+    padding-bottom: 10px;
+    z-index: 3;
+}
+
+.subtitulo{
+    color: white;
+    padding-left: 10px;
+    padding-top: 10px;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 18px;    
+    z-index: 3;
+}
+
+.title__bloco{
+    color: white;
+    padding-top: 25px;
+    padding-left: 5px;
+    padding-bottom: 10px;
+    font-size: 18px;
+    font-family: 'Open Sans', sans-serif;
+    z-index: 3;
+
+}
+ div{
+    display: inline-block;
+ }
+
+.lista{
+  padding-left: 10px;
+  padding-bottom: 10px;
+  z-index: 3;
+}
+
+.apto{
+    text-decoration: none;
+    color: white;
+    padding-bottom: 10px;
+    z-index: 3;
+
+}
